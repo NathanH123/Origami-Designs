@@ -1,0 +1,10 @@
+h1{
+    color:#a7b2cd
+}
+*{
+    background-color: #b8daf7;
+}
+.images{
+    display:flex;
+    justify-content:flex-end;
+}
